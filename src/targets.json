@@ -1,0 +1,57 @@
+[
+  {
+    "range": "1.13-1.13.2",
+    "pack_format": 4,
+    "schema": "plain"
+  },
+  {
+    "range": "1.14-1.14.4",
+    "pack_format": 4,
+    "schema": "legacy"
+  },
+  {
+    "range": "1.15-1.16.1",
+    "pack_format": 5,
+    "schema": "legacy"
+  },
+  {
+    "range": "1.16.2-1.16.5",
+    "pack_format": 6,
+    "schema": "legacy"
+  },
+  {
+    "range": "1.17-1.17.1",
+    "pack_format": 7,
+    "schema": "legacy"
+  },
+  {
+    "range": "1.18-1.18.1",
+    "pack_format": 8,
+    "schema": "legacy"
+  },
+  {
+    "range": "1.18.2",
+    "pack_format": 9,
+    "schema": "legacy"
+  },
+  {
+    "range": "1.19-1.19.3",
+    "pack_format": 10,
+    "schema": "legacy"
+  },
+  {
+    "range": "1.19.4",
+    "pack_format": 12,
+    "schema": "legacy"
+  },
+  {
+    "range": "1.20-1.20.1",
+    "pack_format": 15,
+    "schema": "legacy"
+  },
+  {
+    "range": "1.20.2-1.21.5",
+    "pack_format": 18,
+    "schema": "legacy"
+  }
+]

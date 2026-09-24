@@ -1,0 +1,302 @@
+[
+  {
+    "minecraft": "1.13",
+    "zip": "CraftSaddles-1.13-1.13.2.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.13.2",
+    "zip": "CraftSaddles-1.13-1.13.2.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.14",
+    "zip": "CraftSaddles-1.14-1.14.4.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.16.1",
+    "zip": "CraftSaddles-1.15-1.16.1.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.16.5",
+    "zip": "CraftSaddles-1.16.2-1.16.5.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.17.1",
+    "zip": "CraftSaddles-1.17-1.17.1.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.18.1",
+    "zip": "CraftSaddles-1.18-1.18.1.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.18.2",
+    "zip": "CraftSaddles-1.18.2.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.19.3",
+    "zip": "CraftSaddles-1.19-1.19.3.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.19.4",
+    "zip": "CraftSaddles-1.19.4.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.20.1",
+    "zip": "CraftSaddles-1.20-1.20.1.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.20.2",
+    "zip": "CraftSaddles-1.20.2-1.21.5.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.20.4",
+    "zip": "CraftSaddles-1.20.2-1.21.5.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.20.5",
+    "zip": "CraftSaddles-1.20.2-1.21.5.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.20.6",
+    "zip": "CraftSaddles-1.20.2-1.21.5.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.21",
+    "zip": "CraftSaddles-1.20.2-1.21.5.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.21.1",
+    "zip": "CraftSaddles-1.20.2-1.21.5.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.21.2",
+    "zip": "CraftSaddles-1.20.2-1.21.5.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.21.4",
+    "zip": "CraftSaddles-1.20.2-1.21.5.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  },
+  {
+    "minecraft": "1.21.5",
+    "zip": "CraftSaddles-1.20.2-1.21.5.zip",
+    "status": "pending",
+    "date": null,
+    "artifact_sha256": null,
+    "checks": {
+      "enabled": null,
+      "creative_output": null,
+      "survival_consumption": null,
+      "wrong_pattern": null,
+      "batch_consumption": null
+    },
+    "notes": ""
+  }
+]
