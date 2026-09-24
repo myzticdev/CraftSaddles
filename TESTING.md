@@ -7,6 +7,11 @@ The exact versions, checks, and matching build digests are recorded in
 `tests/manual-results.json`. No pack enablement, JSON validation, or archive
 inspection alone is counted as a successful crafting test.
 
+The supplied pack icon was added after those confirmations. The original test
+records and their hashes are preserved. Recipe and pack metadata contents are
+unchanged, but the rebuilt ZIPs have different hashes; final-artifact confirmation
+is still required by the release gate before publication.
+
 Use unmodified Minecraft Java in Prism. Test one row at a time, using a fresh
 Creative world with cheats enabled and only the matching CraftSaddles ZIP.
 Versions at both sides of the modern schema transitions are included.

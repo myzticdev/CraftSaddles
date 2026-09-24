@@ -1,5 +1,7 @@
 # CraftSaddles
 
+![CraftSaddles icon](src/pack.png)
+
 A Minecraft Java datapack by **myzticdev** that backports vanilla saddle crafting
 to **1.13 through 1.21.5**. Three leather and one iron ingot produce **one saddle**
 using an ordinary crafting table in Survival or Creative.
@@ -24,7 +26,7 @@ using `doLimitedCrafting` should leave it at its vanilla default, `false`.
 ## Downloads and compatibility
 
 Choose **one** ZIP from [Releases](https://github.com/myzticdev/CraftSaddles/releases).
-The initial release has completed manual gameplay testing and awaits release authorization.
+The initial release awaits release authorization and confirmation of the final icon-bearing ZIPs.
 
 | ZIP filename | Supported Java versions | Data pack format |
 | --- | --- | --- |
@@ -43,8 +45,10 @@ The initial release has completed manual gameplay testing and awaits release aut
 These are supported target ranges, not claims that every patch was played.
 **All twenty representative manual checks were confirmed by the maintainer on
 2026-09-24.** See [TESTING.md](TESTING.md)
-and the exact-version [results record](tests/manual-results.json). Automated
-validation checks data and packaging; it does not prove crafting or consumption
+and the exact-version [results record](tests/manual-results.json).
+Those confirmations cover the build before the pack icon was added; the final
+ZIP hashes have changed, while recipe and pack metadata contents are unchanged.
+Automated validation checks data and packaging; it does not prove crafting or consumption
 works in Minecraft. Snapshots and modded environments are outside the test scope.
 
 ## Installation and removal
@@ -84,8 +88,9 @@ Generated files in ignored `dist/`:
 - `SHA256SUMS.txt`, covering those eleven ZIPs.
 - `CraftSaddles-myzticdev-All-Versions.zip`, containing the eleven ZIPs and checksums.
 
-Every datapack has `pack.mcmeta` and `data/` at its root. No icon has been supplied.
-If one is supplied later, a shared `src/pack.png` is packaged at every datapack root.
+Every datapack has `pack.mcmeta`, `pack.png`, and `data/` at its root. The shared
+icon in `src/pack.png` preserves the supplied PNG unchanged and is packaged at
+every datapack root.
 Never modify generated files by hand.
 
 ```sh

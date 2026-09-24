@@ -99,7 +99,8 @@ class PackTests(unittest.TestCase):
                 build.check_pack(files, build.TARGETS[-1])
 
     def test_missing_or_extra_pack_content_fails(self):
-        for name in list(self.modern) + ['data/craftsaddles/advancement/unlock.json']:
+        required = [name for name in self.modern if name != 'pack.png']
+        for name in required + ['data/craftsaddles/advancement/unlock.json']:
             files = dict(self.modern)
             if name in files:
                 del files[name]
