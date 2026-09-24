@@ -26,7 +26,7 @@ using `doLimitedCrafting` should leave it at its vanilla default, `false`.
 ## Downloads and compatibility
 
 Choose **one** ZIP from [Releases](https://github.com/myzticdev/CraftSaddles/releases).
-The initial release awaits release authorization and confirmation of the final icon-bearing ZIPs.
+The initial release includes the supplied pack icon, accepted by the maintainer.
 
 | ZIP filename | Supported Java versions | Data pack format |
 | --- | --- | --- |
@@ -48,6 +48,8 @@ These are supported target ranges, not claims that every patch was played.
 and the exact-version [results record](tests/manual-results.json).
 Those confirmations cover the build before the pack icon was added; the final
 ZIP hashes have changed, while recipe and pack metadata contents are unchanged.
+The maintainer accepted this icon-only change without repeating gameplay tests;
+both the original tested hashes and final accepted hashes are recorded.
 Automated validation checks data and packaging; it does not prove crafting or consumption
 works in Minecraft. Snapshots and modded environments are outside the test scope.
 

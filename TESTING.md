@@ -7,10 +7,12 @@ The exact versions, checks, and matching build digests are recorded in
 `tests/manual-results.json`. No pack enablement, JSON validation, or archive
 inspection alone is counted as a successful crafting test.
 
-The supplied pack icon was added after those confirmations. The original test
-records and their hashes are preserved. Recipe and pack metadata contents are
-unchanged, but the rebuilt ZIPs have different hashes; final-artifact confirmation
-is still required by the release gate before publication.
+The supplied pack icon was added after those confirmations. On 2026-09-24,
+myzticdev explicitly accepted this icon-only change without repeating gameplay
+tests and authorized v1.0.0 publication. Reconstructing each ZIP without pack.png
+reproduced its original tested SHA-256, verifying unchanged recipes and metadata.
+The original hashes are retained as `tested_artifact_sha256`; `artifact_sha256`
+identifies the final accepted ZIP. Each row records the packaging acceptance.
 
 Use unmodified Minecraft Java in Prism. Test one row at a time, using a fresh
 Creative world with cheats enabled and only the matching CraftSaddles ZIP.

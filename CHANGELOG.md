@@ -10,6 +10,8 @@
   Python 3.11+ and the standard library.
 - Generate reproducible ZIPs, individual SHA-256 checksums, and an all-versions bundle.
 - Include the supplied shared PNG icon at the root of every datapack ZIP.
+- Record acceptance of the icon-only packaging change while retaining the
+  original gameplay-tested artifact hashes.
 - Add compatibility regression tests and repeated-build/clean-checkout verification.
 - Add installation and maintenance documentation, a manual gameplay test matrix,
   push/pull-request CI, and tagged releases gated on matching gameplay results.

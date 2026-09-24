@@ -4,7 +4,7 @@
     "zip": "CraftSaddles-1.13-1.13.2.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "333c87539128b8db7cca8e162b4ee8dcb342c04609e12b3f55a7d16a2da61fa2",
+    "artifact_sha256": "013e6aa40f02e39749c09aea487e4f3ad5a67d8e011ae9dd35443d5edcbf87d1",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -12,14 +12,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "333c87539128b8db7cca8e162b4ee8dcb342c04609e12b3f55a7d16a2da61fa2",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.13.2",
     "zip": "CraftSaddles-1.13-1.13.2.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "333c87539128b8db7cca8e162b4ee8dcb342c04609e12b3f55a7d16a2da61fa2",
+    "artifact_sha256": "013e6aa40f02e39749c09aea487e4f3ad5a67d8e011ae9dd35443d5edcbf87d1",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -27,14 +33,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "333c87539128b8db7cca8e162b4ee8dcb342c04609e12b3f55a7d16a2da61fa2",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.14",
     "zip": "CraftSaddles-1.14-1.14.4.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "8621ee1c1fca8d72c41e81013272b725b694ecaf3c90ce0b5da7cec8048df729",
+    "artifact_sha256": "967f50c274e6360899c20ed5e59957d5cb59e9c9d6d6afcf737fee42920531e1",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -42,14 +54,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "8621ee1c1fca8d72c41e81013272b725b694ecaf3c90ce0b5da7cec8048df729",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.16.1",
     "zip": "CraftSaddles-1.15-1.16.1.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "2c8d132c3e93155543f223748f0933b2c253dbd750f8014360e3280dbf923c6e",
+    "artifact_sha256": "00f2e0d634603c8c686084667398b4466ce1edd44711930605d901b82c2d2e8b",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -57,14 +75,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "2c8d132c3e93155543f223748f0933b2c253dbd750f8014360e3280dbf923c6e",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.16.5",
     "zip": "CraftSaddles-1.16.2-1.16.5.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "fad0ada359e243402288d8f4460018007467cbdf3c58f90ed14363740e4b0b76",
+    "artifact_sha256": "4ec9333408934c1cd2e411abe26adb19e54b8d2fc463be74f647d66e7120dd23",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -72,14 +96,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "fad0ada359e243402288d8f4460018007467cbdf3c58f90ed14363740e4b0b76",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.17.1",
     "zip": "CraftSaddles-1.17-1.17.1.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "18109171301487d8a3e2af475f459b6f1e2aa9433b1018b94ec6e16a45b7025a",
+    "artifact_sha256": "1abf7d34ab3e955ee13051af915c5b5982f1d2d213639b617b5890eef9b1543d",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -87,14 +117,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "18109171301487d8a3e2af475f459b6f1e2aa9433b1018b94ec6e16a45b7025a",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.18.1",
     "zip": "CraftSaddles-1.18-1.18.1.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "14d1e868460f322d3f182cf1fb0971c0292e7812fe9e625f327cc935aa6bd077",
+    "artifact_sha256": "9863f1cce381c142e84f429c9ddbca0abd1758ddee48c693ba5a41de850a7bcc",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -102,14 +138,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "14d1e868460f322d3f182cf1fb0971c0292e7812fe9e625f327cc935aa6bd077",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.18.2",
     "zip": "CraftSaddles-1.18.2.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "376ecc64e726ed756854bf03f4ab5fb021d8f04264f47c6519994bb58dcae9f6",
+    "artifact_sha256": "ac323a6710b9c959fb98aa3ce77934b77e4b7fc0ef481d5d4ffa0c1512def473",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -117,14 +159,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "376ecc64e726ed756854bf03f4ab5fb021d8f04264f47c6519994bb58dcae9f6",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.19.3",
     "zip": "CraftSaddles-1.19-1.19.3.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "e0bbb1136f79a10b67d62f9713582a73b19cfc785836a5b8667c13a9db01dc3f",
+    "artifact_sha256": "cde2fd53f73df973f8ebdcd3604b11fe716d95885ed45e5aa350f4dc7eca9da8",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -132,14 +180,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "e0bbb1136f79a10b67d62f9713582a73b19cfc785836a5b8667c13a9db01dc3f",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.19.4",
     "zip": "CraftSaddles-1.19.4.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "b746613d2fc30e353949da7454bcc1041e85db333454552727aaf7af0f4de155",
+    "artifact_sha256": "136abe0aa218a7916b7740d00bab2c630e7a329bb8a537ca02aa8bf1ed8c2d12",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -147,14 +201,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "b746613d2fc30e353949da7454bcc1041e85db333454552727aaf7af0f4de155",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.20.1",
     "zip": "CraftSaddles-1.20-1.20.1.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "d997dfe6fbdeb3e859770755aa5e51511b9e7dfd3677f1c9f69264e508387ca6",
+    "artifact_sha256": "5f84231f57957ca250e1a360234d13482eb91fe3e1a4ffc2cce8a29704545095",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -162,14 +222,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "d997dfe6fbdeb3e859770755aa5e51511b9e7dfd3677f1c9f69264e508387ca6",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.20.2",
     "zip": "CraftSaddles-1.20.2-1.21.5.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "artifact_sha256": "184148a154c2ddda10b264a8c823b7f9a12203f742cb5a0c9e2ce05064e22fca",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -177,14 +243,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.20.4",
     "zip": "CraftSaddles-1.20.2-1.21.5.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "artifact_sha256": "184148a154c2ddda10b264a8c823b7f9a12203f742cb5a0c9e2ce05064e22fca",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -192,14 +264,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.20.5",
     "zip": "CraftSaddles-1.20.2-1.21.5.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "artifact_sha256": "184148a154c2ddda10b264a8c823b7f9a12203f742cb5a0c9e2ce05064e22fca",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -207,14 +285,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.20.6",
     "zip": "CraftSaddles-1.20.2-1.21.5.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "artifact_sha256": "184148a154c2ddda10b264a8c823b7f9a12203f742cb5a0c9e2ce05064e22fca",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -222,14 +306,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.21",
     "zip": "CraftSaddles-1.20.2-1.21.5.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "artifact_sha256": "184148a154c2ddda10b264a8c823b7f9a12203f742cb5a0c9e2ce05064e22fca",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -237,14 +327,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.21.1",
     "zip": "CraftSaddles-1.20.2-1.21.5.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "artifact_sha256": "184148a154c2ddda10b264a8c823b7f9a12203f742cb5a0c9e2ce05064e22fca",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -252,14 +348,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.21.2",
     "zip": "CraftSaddles-1.20.2-1.21.5.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "artifact_sha256": "184148a154c2ddda10b264a8c823b7f9a12203f742cb5a0c9e2ce05064e22fca",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -267,14 +369,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.21.4",
     "zip": "CraftSaddles-1.20.2-1.21.5.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "artifact_sha256": "184148a154c2ddda10b264a8c823b7f9a12203f742cb5a0c9e2ce05064e22fca",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -282,14 +390,20 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   },
   {
     "minecraft": "1.21.5",
     "zip": "CraftSaddles-1.20.2-1.21.5.zip",
     "status": "passed",
     "date": "2026-09-24",
-    "artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "artifact_sha256": "184148a154c2ddda10b264a8c823b7f9a12203f742cb5a0c9e2ce05064e22fca",
     "checks": {
       "enabled": true,
       "creative_output": true,
@@ -297,6 +411,12 @@
       "wrong_pattern": true,
       "batch_consumption": true
     },
-    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing."
+    "notes": "Maintainer confirmed testing every listed version against the requested gameplay procedure. Confirmation covers pack enablement, Creative output, Survival ingredient consumption, incorrect pattern rejection, and batch crafting. Recorded against the unchanged build supplied for testing. The final icon-bearing artifact was subsequently accepted for release without repeated gameplay tests; the original tested digest is retained separately.",
+    "tested_artifact_sha256": "41bec138b676d8bf3865310358a3fd4d91fb6050fe182e9668de671cca1daf82",
+    "packaging_acceptance": {
+      "date": "2026-09-24",
+      "accepted_by": "myzticdev",
+      "scope": "Addition of the supplied pack.png only; accepted without repeating gameplay tests."
+    }
   }
 ]
