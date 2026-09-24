@@ -24,7 +24,7 @@ using `doLimitedCrafting` should leave it at its vanilla default, `false`.
 ## Downloads and compatibility
 
 Choose **one** ZIP from [Releases](https://github.com/myzticdev/CraftSaddles/releases).
-The initial release is pending manual gameplay testing.
+The initial release has completed manual gameplay testing and awaits release authorization.
 
 | ZIP filename | Supported Java versions | Data pack format |
 | --- | --- | --- |
@@ -41,7 +41,8 @@ The initial release is pending manual gameplay testing.
 | `CraftSaddles-1.20.2-1.21.5.zip` | 1.20.2–1.21.5 | 18–71 |
 
 These are supported target ranges, not claims that every patch was played.
-**No manual gameplay checks have been completed yet.** See [TESTING.md](TESTING.md)
+**All twenty representative manual checks were confirmed by the maintainer on
+2026-09-24.** See [TESTING.md](TESTING.md)
 and the exact-version [results record](tests/manual-results.json). Automated
 validation checks data and packaging; it does not prove crafting or consumption
 works in Minecraft. Snapshots and modded environments are outside the test scope.

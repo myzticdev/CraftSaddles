@@ -1,7 +1,11 @@
 # Gameplay testing
 
-All manual checks are currently **pending**. No pack enablement, JSON validation,
-or archive inspection is counted as a successful crafting test.
+All twenty versions in the matrix below were reported tested and confirmed by
+the maintainer on **2026-09-24**, covering the requested gameplay procedure.
+The results are maintainer-reported confirmations, not automated gameplay tests.
+The exact versions, checks, and matching build digests are recorded in
+`tests/manual-results.json`. No pack enablement, JSON validation, or archive
+inspection alone is counted as a successful crafting test.
 
 Use unmodified Minecraft Java in Prism. Test one row at a time, using a fresh
 Creative world with cheats enabled and only the matching CraftSaddles ZIP.

@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.0] - Unreleased
+## [1.0.0] - 2026-09-24
 
 - Backport the vanilla shaped saddle recipe: three leather and one iron ingot
   produce one saddle in Minecraft Java 1.13 through 1.21.5.
@@ -12,5 +12,5 @@
 - Add compatibility regression tests and repeated-build/clean-checkout verification.
 - Add installation and maintenance documentation, a manual gameplay test matrix,
   push/pull-request CI, and tagged releases gated on matching gameplay results.
-
-Release pending completion of the manual test matrix and release authorization.
+- Complete maintainer-reported gameplay checks on all twenty representative
+  Minecraft versions, covering every ZIP and the relevant schema transitions.
